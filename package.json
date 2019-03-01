@@ -1,0 +1,30 @@
+{
+  "name": "cvsscalculator",
+  "version": "1.0.0",
+  "description": "Common Vulnerability Scoring System v3.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Parellin-Technologies-LLC/CVSSCalculator.git"
+  },
+  "keywords": [
+    "cvss",
+    "calculator",
+    "cve",
+    "vulnerability",
+    "scoring"
+  ],
+  "author": "Parellin Technologies LLC",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Parellin-Technologies-LLC/CVSSCalculator/issues"
+  },
+  "homepage": "https://github.com/Parellin-Technologies-LLC/CVSSCalculator#readme",
+  "devDependencies": {
+    "chai": "4.2.0",
+    "mocha": "5.2.0"
+  }
+}
